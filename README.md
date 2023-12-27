@@ -1,1 +1,8 @@
-- 👋 Hi, I’m @FilippoCcane, i am a Minecraft helper (SS verified). Contact me for be in one of your server. Im also a Web developer.
+- 👋 Hi, Im FilippoCcane. I am a beginner developer. My main programming language is Python
+-    and other: Html, Css
+-    
+- If you want to contact me for some collab here is my Telegram and discord.
+  | | | | | | | | | | | | |
+  v v v v v v v v v v v v v
+- Telegram: @FilippoCcane_
+- Discord:  FilippoCcane_
