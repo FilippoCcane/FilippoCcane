@@ -2,7 +2,10 @@
 -    and other: Html, Css
 -    
 - If you want to contact me for some collab here is my Telegram and discord.
+- 
   | | | | | | | | | | | | |
+  
   v v v v v v v v v v v v v
+  
 - Telegram: @FilippoCcane_
 - Discord:  FilippoCcane_
